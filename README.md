@@ -10,4 +10,5 @@ Die Zielnote für jedes Modul:
 
 
 ### 07.05.2025
-- [ ] In die Ferien habe ich ein Programm geschrieben für ein Console App das die Zauberwürfel Bewegungen simuliert. Ich will dies in 3d umwandlen in ein WPF.
+- [ ] Ich will ein Gemini Api in ein Python Program integrieren.
+- [ ] Ich will gewisse API's zusammen verbinden.
