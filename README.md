@@ -13,6 +13,5 @@ Die Zielnote für jedes Modul:
 - [ ] Ich will ein Gemini Api in ein Python Program integrieren.
 - [ ] Ich will gewisse API's zusammen verbinden.
 
-16.05
-
+### 16.05.2025
 - [ ] Ich will ein Diagram Generator erstellen mit der Gemini API
